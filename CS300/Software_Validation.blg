@@ -1,0 +1,69 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Software_Validation.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: IEEEtran.bst
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Database file #1: validation.bib
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty booktitle in regression
+Warning--empty author in standard
+Warning--missing publisher in chapter7
+Name 1 in "Michael Bloch, Sven Blumberg, and Jürgen Laartz" has a comma at the end for entry mckinsey
+while executing---line 2403 of file IEEEtran.bst
+Warning--empty author in iso25000
+Warning--empty author in ISO24765
+Warning--empty author in ieee829
+Warning--empty author in iso12207
+Warning--empty journal in rosenblum
+
+Done.
+You've used 14 entries,
+            4087 wiz_defined-function locations,
+            898 strings with 9698 characters,
+and the built_in function-call counts, 8466 in all, are:
+= -- 689
+> -- 149
+< -- 44
++ -- 81
+- -- 26
+* -- 391
+:= -- 1315
+add.period$ -- 28
+call.type$ -- 14
+change.case$ -- 13
+chr.to.int$ -- 93
+cite$ -- 22
+duplicate$ -- 666
+empty$ -- 737
+format.name$ -- 35
+if$ -- 1976
+int.to.chr$ -- 0
+int.to.str$ -- 14
+missing$ -- 122
+newline$ -- 69
+num.names$ -- 9
+pop$ -- 295
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 2
+skip$ -- 688
+stack$ -- 0
+substring$ -- 264
+swap$ -- 484
+text.length$ -- 13
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 14
+warning$ -- 8
+while$ -- 32
+width$ -- 16
+write$ -- 151
+(There was 1 error message)

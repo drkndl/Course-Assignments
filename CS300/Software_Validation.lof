@@ -1,0 +1,8 @@
+\contentsline {figure}{\numberline {1}{\ignorespaces A generic lifecycle for a software development project\relax }}{3}{figure.caption.4}%
+\contentsline {figure}{\numberline {2}{\ignorespaces When an analysis was conducted to determine the percent of pass, error, fail, cancel and started results of a regression test, it was found that nearly two-thirds of the test cases gave an error or a failure. Most of them were due to flaky errors, so it is important to remove any redundant test cases that may give flaky errors.\relax }}{5}{figure.caption.5}%
+\contentsline {figure}{\numberline {3}{\ignorespaces The layout of a typical traceability matrix. The various requirements are listed on one side and several test cases verify for the validity of the requirement in the software.\relax }}{6}{figure.caption.6}%
+\contentsline {figure}{\numberline {4}{\ignorespaces A comparison of proposed test framework and past framework detection capability. The proposed framework detects far more relevant defects and fewer non-relevant defects\relax }}{8}{figure.caption.7}%
+\contentsline {figure}{\numberline {5}{\ignorespaces A comparison of proposed test framework and past framework costs per hour. The proposed framework cuts down on costs by nearly half the original\relax }}{9}{figure.caption.8}%
+\contentsline {figure}{\numberline {6}{\ignorespaces State Machine Diagram of Mode Transitions\relax }}{10}{figure.caption.9}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Search space boundaries and deviation limits relative to the expectation $E(x)$.\relax }}{12}{figure.caption.10}%
+\contentsline {figure}{\numberline {8}{\ignorespaces V\&V Lifecycle\relax }}{15}{figure.caption.11}%
